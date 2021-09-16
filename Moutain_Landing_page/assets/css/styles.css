@@ -70,8 +70,25 @@ header nav li {
     margin: 0 15px;
 }
 
+/* Hero Styles*/
 
+.hero {
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+}
 
+.hero .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    z-index: 1;
+    background-color: #80a3db;
+}
 
 /* End of Mountain Landing Page*/
 
