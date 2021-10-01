@@ -29,4 +29,14 @@ body {
      margin: 10px;
      min-width: 150px;
      position: relative;
- }
+ } 
+
+ .key small {
+     position: absolute;
+     top:-24px;
+     left: o;
+     text-align: center;
+     width: 100%;
+     color: #555;
+     font-size: 14px;
+}
