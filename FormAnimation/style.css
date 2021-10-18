@@ -33,6 +33,15 @@ body {
   color: lightblue;
 }
 
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  background: lightblue;
+  font-family: inherit;
+  font-size: 16px;
+}
+
 .form-control {
   position: relative;
   margin: 20px 0 40px;
