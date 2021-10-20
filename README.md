@@ -1,8 +1,9 @@
 # 100 days of CSS
-| # | Project        | Live Demo |
-| -------------------------------|
-| 1 | FormA          | Live Demo |
-| 2 | Keycode        | Live Demo |
+
+| Name     | Email          |
+| ---------| ---------------|
+| John Doe | john@gmail.com |
+| jane Doe | jane@gmail.com |
 
 
 
