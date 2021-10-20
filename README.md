@@ -1,9 +1,9 @@
 # 100 days of CSS
 
-| #  | Project         |
-| ---------------------|
-| 01 | FormAnimation   |
-| 02 | Keycode.        |
+| #  |     Project      |
+| ---|------------------|
+| 01 | FormAnimation    |
+| 02 | Keycode.         |
 
 
 
