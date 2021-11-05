@@ -1,9 +1,9 @@
-const open = document.getElementById('open');
-const close = document.getElementById('close');
-const container = document.getElementById('.container');
+const open = document.getElementById('open')
+const close = document.getElementById('close')
+const container = document.querySelector('.container')
 
-open.addEventListener('clikc', () => container.classList.add('show-nav'))
+open.addEventListener('click', () => container.classList.add('show-nav'))
 
-close.addEventListener('clikc', () => container.classList.remove('show-nav'))
+close.addEventListener('click', () => container.classList.remove('show-nav'))
 
 
