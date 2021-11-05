@@ -25,6 +25,10 @@ body {
   transition: width 0.3s ease;
 }
 
+.search {
+  position: relative;
+}
+
 .btn {
   background-color: #fff;
   border: 0;
@@ -47,4 +51,7 @@ body {
   width: 200px;
 }
 
+.search.active .btn {
+  transform: translateX(198px);
+}
 
